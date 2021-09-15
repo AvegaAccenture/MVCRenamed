@@ -1,0 +1,12 @@
+C:\Cursos\CursoMVC\AppMVC\AppMVC.Utilities\bin\Debug\net5.0\AppMVC.Utilities.deps.json
+C:\Cursos\CursoMVC\AppMVC\AppMVC.Utilities\bin\Debug\net5.0\AppMVC.Utilities.dll
+C:\Cursos\CursoMVC\AppMVC\AppMVC.Utilities\bin\Debug\net5.0\ref\AppMVC.Utilities.dll
+C:\Cursos\CursoMVC\AppMVC\AppMVC.Utilities\bin\Debug\net5.0\AppMVC.Utilities.pdb
+C:\Cursos\CursoMVC\AppMVC\AppMVC.Utilities\obj\Debug\net5.0\AppMVC.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CursoMVC\AppMVC\AppMVC.Utilities\obj\Debug\net5.0\AppMVC.Utilities.AssemblyInfoInputs.cache
+C:\Cursos\CursoMVC\AppMVC\AppMVC.Utilities\obj\Debug\net5.0\AppMVC.Utilities.AssemblyInfo.cs
+C:\Cursos\CursoMVC\AppMVC\AppMVC.Utilities\obj\Debug\net5.0\AppMVC.Utilities.csproj.CoreCompileInputs.cache
+C:\Cursos\CursoMVC\AppMVC\AppMVC.Utilities\obj\Debug\net5.0\AppMVC.Utilities.dll
+C:\Cursos\CursoMVC\AppMVC\AppMVC.Utilities\obj\Debug\net5.0\ref\AppMVC.Utilities.dll
+C:\Cursos\CursoMVC\AppMVC\AppMVC.Utilities\obj\Debug\net5.0\AppMVC.Utilities.pdb
+C:\Cursos\CursoMVC\AppMVC\AppMVC.Utilities\obj\Debug\net5.0\AppMVC.Utilities.csproj.AssemblyReference.cache

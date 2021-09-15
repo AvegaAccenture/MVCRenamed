@@ -1,0 +1,17 @@
+C:\Cursos\CursoMVC\AppMVC\AppMVC.DataAccess\bin\Debug\net5.0\AppMVC.DataAccess.deps.json
+C:\Cursos\CursoMVC\AppMVC\AppMVC.DataAccess\bin\Debug\net5.0\AppMVC.DataAccess.dll
+C:\Cursos\CursoMVC\AppMVC\AppMVC.DataAccess\bin\Debug\net5.0\ref\AppMVC.DataAccess.dll
+C:\Cursos\CursoMVC\AppMVC\AppMVC.DataAccess\bin\Debug\net5.0\AppMVC.DataAccess.pdb
+C:\Cursos\CursoMVC\AppMVC\AppMVC.DataAccess\bin\Debug\net5.0\AppMVC.Models.dll
+C:\Cursos\CursoMVC\AppMVC\AppMVC.DataAccess\bin\Debug\net5.0\AppMVC.Utilities.dll
+C:\Cursos\CursoMVC\AppMVC\AppMVC.DataAccess\bin\Debug\net5.0\AppMVC.Models.pdb
+C:\Cursos\CursoMVC\AppMVC\AppMVC.DataAccess\bin\Debug\net5.0\AppMVC.Utilities.pdb
+C:\Cursos\CursoMVC\AppMVC\AppMVC.DataAccess\obj\Debug\net5.0\AppMVC.DataAccess.csproj.AssemblyReference.cache
+C:\Cursos\CursoMVC\AppMVC\AppMVC.DataAccess\obj\Debug\net5.0\AppMVC.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CursoMVC\AppMVC\AppMVC.DataAccess\obj\Debug\net5.0\AppMVC.DataAccess.AssemblyInfoInputs.cache
+C:\Cursos\CursoMVC\AppMVC\AppMVC.DataAccess\obj\Debug\net5.0\AppMVC.DataAccess.AssemblyInfo.cs
+C:\Cursos\CursoMVC\AppMVC\AppMVC.DataAccess\obj\Debug\net5.0\AppMVC.DataAccess.csproj.CoreCompileInputs.cache
+C:\Cursos\CursoMVC\AppMVC\AppMVC.DataAccess\obj\Debug\net5.0\AppMVC.DataAccess.csproj.CopyComplete
+C:\Cursos\CursoMVC\AppMVC\AppMVC.DataAccess\obj\Debug\net5.0\AppMVC.DataAccess.dll
+C:\Cursos\CursoMVC\AppMVC\AppMVC.DataAccess\obj\Debug\net5.0\ref\AppMVC.DataAccess.dll
+C:\Cursos\CursoMVC\AppMVC\AppMVC.DataAccess\obj\Debug\net5.0\AppMVC.DataAccess.pdb
